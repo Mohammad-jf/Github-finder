@@ -18,7 +18,7 @@ const NotFound = () => {
 
               <Link className='btn btn-primary btn-lg' to='/'>
                 <FaHome className='mr-2'/>
-                 Back To Home
+                Back To Home
               </Link>
 
             </div>
