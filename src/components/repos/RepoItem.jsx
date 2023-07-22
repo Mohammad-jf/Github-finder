@@ -11,7 +11,7 @@ const RepoItem = ({ repo }) => {
         open_issues, watchers_count, stargazers_count } = repo
 
     return (
-        <div className='mb-2 rounded-md card bg-gray-800 hover:bg-gray-900'>
+        <div className='mb-2 rounded-md card bg-gray-800 hover:bg-gray-900 cursor-pointer'>
 
             <div className="card-body">
 
